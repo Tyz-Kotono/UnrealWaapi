@@ -42,7 +42,7 @@ public class UnrealWappi : ModuleRules
 				"Engine",
 				"Slate",
 				"SlateCore",
-				"Json", "JsonUtilities", "Http", "WebSockets", "Sockets"
+				"Json", "JsonUtilities", "Http", "WebSockets"
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
